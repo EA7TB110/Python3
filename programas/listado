@@ -3,3 +3,8 @@ TK_Listbox_scroll_bar.py
 ************************
   Crea una listbox con una anchura de 100 y una altura de 30
   asociado a ella hay un scrolbar a la izquierda
+
+TKinter_01.py
+-------------
+  Crea una pantalla con un menu
+    añade listbox y un scorllbar
